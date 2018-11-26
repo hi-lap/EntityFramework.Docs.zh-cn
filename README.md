@@ -9,3 +9,12 @@
 此项目提供了 [docs.microsoft.com/ef](https://docs.microsoft.com/ef/) 的源。
 
 接受拉取请求！ 但在提交拉取请求前，请[阅读参与指南](CONTRIBUTING.md)，其中包括如何在本地生成文档的相关信息，以及风格和结构指南。
+
+=====================
+### 翻译约定
+
+| 英文 | 中文（建议） |
+|--------|--------|
+|    property    |    特性    |
+|    attribute    |    属性    |
+|    annotation    |    注解    |
